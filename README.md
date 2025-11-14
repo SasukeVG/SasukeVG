@@ -1,5 +1,6 @@
-## Nikita — Backend Engineer
+# Nikita — Backend Engineer
 
+<pre>
 ┌────────────────────────────────────────┐
 │              SYSTEM SPECS              │
 ├────────────────────────────────────────┤
@@ -27,4 +28,4 @@
 │  internal automation tooling           │
 │  structured API systems                │
 └────────────────────────────────────────┘
-
+</pre>
